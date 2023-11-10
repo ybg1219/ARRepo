@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="ar_marker_sun" size="10.000000 10.000000" />
+    <ImageTarget name="ar_marker_earth" size="10.000000 10.000000" />
     <ImageTarget name="animal2" size="1000.000000 748.466248" />
   </Tracking>
 </QCARConfig>
